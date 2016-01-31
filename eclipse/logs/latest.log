@@ -1,0 +1,39 @@
+[20:13:11] [main/INFO]: Setting user: Player447
+[20:13:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:13:31] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Sapphire Mod
+[20:13:32] [Sound Library Loader/INFO]: Sound engine started
+[20:13:34] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:13:34] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:13:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Sapphire Mod
+[20:13:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:13:35] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:13:36] [Sound Library Loader/INFO]: Sound engine started
+[20:15:17] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:15:17] [Server thread/INFO]: Generating keypair
+[20:15:17] [Server thread/INFO]: Preparing start region for level 0
+[20:15:18] [Server thread/INFO]: Preparing spawn area: 33%
+[20:15:19] [Server thread/INFO]: Changing view distance to 16, from 10
+[20:15:20] [Server thread/INFO]: Player447[local:E:5d001daf] logged in with entity id 124 at (222.30289273264933, 74.0, 176.7391263450571)
+[20:15:20] [Server thread/INFO]: Player447 joined the game
+[20:17:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 125 ms
+[20:18:13] [Server thread/INFO]: Player447 has just earned the achievement [Taking Inventory]
+[20:18:13] [Client thread/INFO]: [CHAT] Player447 has just earned the achievement [Taking Inventory]
+[20:18:14] [Server thread/INFO]: Saving and pausing game...
+[20:18:14] [Server thread/INFO]: Saving chunks for level 'New World1'/Overworld
+[20:18:14] [Server thread/INFO]: Saving chunks for level 'New World1'/Nether
+[20:18:14] [Server thread/INFO]: Saving chunks for level 'New World1'/The End
+[20:18:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2184ms behind, skipping 43 tick(s)
+[20:19:12] [Client thread/INFO]: Warning: Clientside chunk ticking took 283 ms
+[20:19:36] [Client thread/INFO]: Warning: Clientside chunk ticking took 259 ms
+[20:32:44] [Client thread/INFO]: Warning: Clientside chunk ticking took 257 ms
+[20:36:32] [Server thread/INFO]: Saving and pausing game...
+[20:36:32] [Server thread/INFO]: Saving chunks for level 'New World1'/Overworld
+[20:36:32] [Server thread/INFO]: Saving chunks for level 'New World1'/Nether
+[20:36:32] [Server thread/INFO]: Saving chunks for level 'New World1'/The End
+[20:36:34] [Client thread/INFO]: Stopping!
+[20:36:34] [Server thread/INFO]: Stopping server
+[20:36:34] [Server thread/INFO]: Saving players
+[20:36:34] [Server thread/INFO]: Saving worlds
+[20:36:34] [Server thread/INFO]: Saving chunks for level 'New World1'/Overworld
+[20:36:34] [Server thread/INFO]: Saving chunks for level 'New World1'/Nether
+[20:36:34] [Server thread/INFO]: Saving chunks for level 'New World1'/The End

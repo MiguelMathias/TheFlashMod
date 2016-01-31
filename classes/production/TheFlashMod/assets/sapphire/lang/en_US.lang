@@ -1,0 +1,16 @@
+tile.sapphireOre.name=Sapphire Ore
+
+itemGroup.flashTab=The Flash Tab
+
+potion.speedForce=Speed Force Generator
+potion.digFast=Speed Dig
+potion.strongPotion=Speed Strength
+potion.jumpPotion=Speed Jump
+potion.speedWaterWalking=Speed Water Running
+potion.intangPotion=Speed Phasing
+
+item.helmetFlash.name=Flash Facemask
+item.chestFlash.name=Flash Torso
+item.legsFlash.name=Flash Leggings
+item.bootsFlash.name=Flash Boots
+
